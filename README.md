@@ -1,3 +1,5 @@
+This is experimental fork of DraftJS, DO NOT USE IT at production
+
 # [Draft.js](http://draftjs.org/) [![Build Status](https://img.shields.io/travis/facebook/draft-js/master.svg?style=flat)](https://travis-ci.org/facebook/draft-js) [![npm version](https://img.shields.io/npm/v/draft-js.svg?style=flat)](https://www.npmjs.com/package/draft-js)
 
 Draft.js is a JavaScript rich text editor framework, built for React and
